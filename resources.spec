@@ -97,7 +97,7 @@ desktop-file-validate %{buildroot}%{_datadir}/applications/*.desktop
 
 
 %changelog
-* Tue  May 5 2026 Rafał Rosner <kontakt@rafi67000.xyz> - 1.10.2-1
+* Tue May 5 2026 Rafał Rosner <kontakt@rafi67000.xyz> - 1.10.2-1
 - chore: Update to latest release
 
 * Sat Mar 29 2025 Artem Polishchuk <ego.cordatus@gmail.com> - 1.8.0-1
